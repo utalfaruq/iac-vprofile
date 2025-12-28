@@ -13,4 +13,4 @@ locals {
   cluster_name = var.clusterName
 }
 
-##
+## still some comments to be looked at for eks installation
